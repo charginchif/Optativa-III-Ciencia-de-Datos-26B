@@ -1,0 +1,15 @@
+﻿Extraídos 194 productos de https://dummyjson.com/products
+Limpieza: 92 productos sin marca -> 'Sin marca'
+Cargadas: dim_categoria=24, dim_marca=64, fact_productos=194 -> catalogo.db
+Validación: productos sin categoría o marca en las dimensiones = 0
+
+Top 8 categorías por valor de inventario (USD):
+     categoria  productos  rating_prom  valor_inventario
+       Vehicle          5         3.39           9608753
+  Mens watches          6         3.66           2482712
+Womens watches          5         3.48           1243628
+    Motorcycle          5         3.67            917638
+       Laptops          5         3.62            351794
+     Furniture          5         4.01            314649
+   Smartphones         16         3.70            244575
+       Tablets          3         3.86             81231
